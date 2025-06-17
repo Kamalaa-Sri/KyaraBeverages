@@ -1,6 +1,8 @@
 # KyaraBeverages
 Static homepage for Kyara Beverages made using HTML &amp; CSS
+
 Visit the site here:  https://kamalaa-sri.github.io/KyaraBeverages.github.io/
+
 #🗂️ Project Structure
 KyaraBeverages/
 │
